@@ -8,7 +8,7 @@
 
 Dados dispersos, decisões unificadas.
 
-[Site](https://pulsarmt.dpdns.org) · [Contato](mailto:pulsarmetrics@proton.me) · [Programa de Parceiros Fundadores 2026](#-parceiros-fundadores-2026)
+[Site](https://pulsarmt.dpdns.org) · [Contato](mailto:pulsarmetrics@proton.me) 
 
 ![status](https://img.shields.io/badge/status-valida%C3%A7%C3%A3o%20com%20parceiros-black)
 ![made in](https://img.shields.io/badge/feito%20em-Angola%20%F0%9F%87%A6%F0%9F%87%B4-black)
