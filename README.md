@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](banner.png)
+![banner](logo.png)
 
 # Pulsar Metrics
 
